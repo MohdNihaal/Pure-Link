@@ -1,0 +1,19 @@
+***BG Colour***
+nav button(#D9D9D9/#FEBABA)
+#FFE0E0
+#FFFFFF
+#B6D1E4
+button(#FFFFFF/#156669)
+
+***Font Colour***
+nav(#F66262)
+h1 (#519A9D/#FFFFFF)
+p/h2/h3/h4/h5/h6(#006D72/#7D7165)
+button(#F4F3F3/#2E7FB8)
+
+***Font***
+nav (Farro)
+h1 (Farro)
+p(orienta/Exo 2)
+button (Orienta)
+
